@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Header](./github-header-image.png)
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width =40> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width =30> </h1>
 
 <div size='20px'> Hi! My name is Pushapk Raut. Thank You for taking the time to view my GitHub Profile : </div>
 
