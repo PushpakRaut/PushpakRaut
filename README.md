@@ -29,7 +29,7 @@
 
 <div>
   <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=50> </h2>
-  <a href = 'https://www.linkedin.com/in/pushpak-raut-075738170/'> <img src="https://skillicons.dev/icons?i=linkedin" /></a> 
+  <a href = 'https://www.linkedin.com/in/pushpakraut/'> <img src="https://skillicons.dev/icons?i=linkedin" /></a> 
   <a href = 'https://www.github.com/PushpakRaut'> <img src="https://skillicons.dev/icons?i=github" /></a> 
   <a href = 'https://www.youtube.com/c/CodeSmoker'> <img src="./youtube-icon.png" /></a> 
 </div>
