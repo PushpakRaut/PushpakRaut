@@ -26,18 +26,17 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,git,materialui,netlify,vscode&perline=5" />
   </a>
 </p>
+<div>
+  <h2> Profiles  <img src='https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/programmer.gif' width=60> </h2>
+  <a href = 'https://leetcode.com/PushpakRaut/'>Leetcode</a> <br/>
+  <a href = 'https://www.codechef.com/users/pushpak_1899'>Codechef</a>
+</div>
 
 <div>
   <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=50> </h2>
   <a href = 'https://www.linkedin.com/in/pushpakraut/'> <img src="https://skillicons.dev/icons?i=linkedin" /></a> 
   <a href = 'https://www.github.com/PushpakRaut'> <img src="https://skillicons.dev/icons?i=github" /></a> 
   <a href = 'https://www.youtube.com/c/CodeSmoker'> <img src="./youtube-icon.png" /></a> 
-</div>
-
-<div>
-  <h2> Profiles  <img src='https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/programmer.gif' width=60> </h2>
-  <a href = 'https://leetcode.com/PushpakRaut/'>Leetcode</a> <br/>
-  <a href = 'https://www.codechef.com/users/pushpak_1899'>Codechef</a>
 </div>
 <br/>
 <div>
