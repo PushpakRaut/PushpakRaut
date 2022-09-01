@@ -9,7 +9,7 @@
 
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-  - 👨‍🎓 B.Tech in Computer Engrineering(2018-2022) from GH. Raisoni college of Engineering and Management, Pune - 9.03 CGPA
+  - 👨‍🎓 B.Tech in Computer Engrineering(2018-2022) from GH. Raisoni college of Engineering and Management, Pune - 8.93 CGPA
   
   - 🔭 I’m currently working on react JS projects, my skills.  
 
@@ -32,6 +32,12 @@
   <a href = 'https://www.linkedin.com/in/pushpakraut/'> <img src="https://skillicons.dev/icons?i=linkedin" /></a> 
   <a href = 'https://www.github.com/PushpakRaut'> <img src="https://skillicons.dev/icons?i=github" /></a> 
   <a href = 'https://www.youtube.com/c/CodeSmoker'> <img src="./youtube-icon.png" /></a> 
+</div>
+
+<div>
+  <h2> Profiles  <img src='https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/programmer.gif' width=60> </h2>
+  <a href = 'https://leetcode.com/PushpakRaut/'>Leetcode</a> <br/>
+  <a href = 'https://www.codechef.com/users/pushpak_1899'>Codechef</a>
 </div>
 <br/>
 <div>
