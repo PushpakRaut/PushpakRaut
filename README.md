@@ -23,7 +23,7 @@
 <p>
   <h2>Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width =22></h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,git,materialui,netlify,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,cpp,java,sass,git,postman,materialui,netlify,vscode,figma,xd&perline=5" />
   </a>
 </p>
 <div>
@@ -35,8 +35,9 @@
 <div>
   <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=50> </h2>
   <a href = 'https://www.linkedin.com/in/pushpakraut/'> <img src="https://skillicons.dev/icons?i=linkedin" /></a> 
+  <a href = 'https://twitter.com/PushpakRautt'> <img src="https://skillicons.dev/icons?i=twitter" /></a> 
   <a href = 'https://www.github.com/PushpakRaut'> <img src="https://skillicons.dev/icons?i=github" /></a> 
-  <a href = 'https://www.youtube.com/c/CodeSmoker'> <img src="./youtube-icon.png" /></a> 
+  <a href = 'https://www.youtube.com/@PushpakRautt'> <img src="./youtube-icon.png" /></a> 
 </div>
 <br/>
 <div>
