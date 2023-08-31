@@ -9,15 +9,15 @@
 
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-  - 👨‍🎓 B.Tech in Computer Engrineering(2018-2022) from GH. Raisoni college of Engineering and Management, Pune - 8.93 CGPA
+  - 👨‍🎓 B.Tech in Computer Engrineering(2018-2022) from GH. Raisoni College of Engineering and Management, Pune - 8.93 CGPA
   
-  - 🔭 I’m currently working on react JS projects, my skills.  
+  - 🔭 I’m currently working on React JS projects, my skills.  
 
-  - 🌱 I’m currently learning React JS, Redux 
+  - 🌱 I’m currently learning Next JS, Redux, DSA, and other things. 
 
-  - 👯 I’m looking to collaborate on Projects, Tech Articles 
+  - 👯 I’m looking to collaborate on Open Source Projects. 
 
-  - 💬 Talk to me about Freelancing Opportunites, Open Source, react JS open source projects or paid Projects. 
+  - 💬 Talk to me about React, Front-End, JavaScript, and Open Source. 
 </div>
   
 <p>
