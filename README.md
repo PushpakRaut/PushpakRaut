@@ -23,7 +23,7 @@
 <p>
   <h2>Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width =22></h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,cpp,java,sass,git,postman,materialui,netlify,vscode,figma,xd&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,cpp,java,sass,git,postman,materialui,netlify,vscode,figma,xd&perline=8" />
   </a>
 </p>
 <div>
@@ -43,6 +43,7 @@
 <div>
   <h1>My Stats</h1>
   
+  ![Pushpak's GitHub stats](https://github-readme-stats.vercel.app/api?username=PushpakRaut&show_icons=true&theme=dark)
   [![GitHub Streak](https://streak-stats.demolab.com/?user=PushpakRaut&theme=dark)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PushpakRaut&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
